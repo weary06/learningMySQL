@@ -8,11 +8,11 @@
 <body>
     <h1>Gestione Rappresentanti Aziendali</h1>
     <ul>
-        <li><a href="primaFunzione.php">prima funzionalità</a></li>
-        <li><a href="secondaFunzione.php">seconda funzionalità</a></li>
-        <li><a href="terzaFunzione.php">terza funzionalità</a></li>
-        <li><a href="quartaFunzione.php">quarta funzionalità</a></li>
-        <li><a href="quintaFunzione.php">quinta funzionalità</a></li>
+        <li><a href="primaFunzione.php">Cerca rappresentante in base al fatturato</a></li>
+        <li><a href="secondaFunzione.php">Controlla e aumenta provvigioni</a></li>
+        <li><a href="terzaFunzione.php">Aggiungi Rappresentante</a></li>
+        <li><a href="quartaFunzione.php">Elimina rappresentante</a></li>
+        <li><a href="quintaFunzione.php">Visualizza rappresentanti</a></li>
     </ul>
 </body>
 </html>

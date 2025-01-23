@@ -29,7 +29,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <body>
     <h1>Cerca Rappresentanti per Fatturato</h1>
 
-    <!-- Form per l'inserimento dei valori -->
+    <!--form per l'inserimento dei valori -->
     <form action="primaFunzione.php" method="post">
         <label for="valore_min">Valore Minimo (€):</label>
         <input type="number" id="valore_min" name="valore_min" step="0.01" required>
@@ -73,6 +73,6 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 </html>
 
 <?php
-// Chiusura della connessione al database
+//chiusura della connessione al database
 $conn->close();
 ?>
